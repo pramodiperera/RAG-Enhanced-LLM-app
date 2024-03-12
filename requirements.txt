@@ -2,5 +2,7 @@ google.generativeai
 python-dotenv
 langchain
 langchain-google-genai
-pypdf
 streamlit
+IPython
+chromadb
+PyPDF2
